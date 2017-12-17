@@ -1,4 +1,4 @@
-
+///It worked 4 hours before the date ^^
 ///initializing the tree
 template<class K, class V>
 BST<K, V>::BST(){
